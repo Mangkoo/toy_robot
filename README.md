@@ -1,8 +1,8 @@
-# Toy Robot Challenge
+# 🤖 Toy Robot Challenge
 
 CLI Game consisting of a Player controlled Robot and a 2-D playspace (Map) of size: 5x5.
 
-## Commands
+## 💻 Commands
 
 ```PLACE \<x>\, \<y>\, <direction>```
   Places the Robot on the Map, Example: PLACE 0, 2, NORTH
@@ -18,6 +18,6 @@ CLI Game consisting of a Player controlled Robot and a 2-D playspace (Map) of si
   
 ```EXIT```
   Exits Game
-```
+
 
 
